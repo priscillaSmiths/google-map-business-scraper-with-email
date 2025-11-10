@@ -1,0 +1,18 @@
+[
+  {
+    "businessName": "Sample Marketing Agency",
+    "address": "123 Sample Street, Sample City, Sample State",
+    "phone": "+1 123-456-7890",
+    "email": "contact@sampleagency.com",
+    "website": "https://www.sampleagency.com",
+    "rating": 4.5,
+    "reviews": 250,
+    "images": ["https://www.sampleagency.com/image1.jpg"],
+    "workingHours": "Mon-Fri: 9 AM - 6 PM",
+    "category": "Marketing Agency",
+    "gpsCoordinates": {
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    }
+  }
+]
